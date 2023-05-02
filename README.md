@@ -7,6 +7,8 @@ My setup scripts to bootstrap a new [Xubuntu 22.04](https://xubuntu.org/) instal
 
 Installation is broken up into two steps. The first step is run from the live CD/USB after the Xubuntu installer has finished. The second step is run immediately after first boot.
 
+Note: UEFI Secure Boot can cause issues.
+
 ### Step 1: Install Xubuntu from live CD/USB
 
 * Boot Xubuntu from a live USB
